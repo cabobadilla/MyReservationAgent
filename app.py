@@ -1,7 +1,7 @@
 import streamlit as st
 from datetime import datetime, timedelta
 import json
-from smolagents import CodeAgent, HfApiModel
+from smol_agents import CodeAgent, HfApiModel
 from typing import Dict
 
 # Set page config
